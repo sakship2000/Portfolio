@@ -407,7 +407,7 @@ section .title::after{
 
 /* contact section styling */
 .contact{
-    background-color: #EAE7DC;
+    background-color: #D8C3A5 /*#EAE7DC*/;
 }
 .contact .contact-content .column{
     width: 100%;
